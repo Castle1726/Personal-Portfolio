@@ -29,7 +29,7 @@ My primary technical passion lies in **defensive security**—securing systems, 
 
 ### 💻 Featured Projects & Coursework
 
-#### 🌐 [Personal Portfolio Website](https://github.com/your-username/your-portfolio-repo)
+#### 🌐 [Personal Portfolio Website](https://github.com/Castle1726/Personal-Portfolio)
 * **Stack:** HTML5, CSS3, Bootstrap 5, Git / GitHub
 * Designed and built a responsive personal portfolio featuring structured grid layouts, modern typography, semantic components, and mobile-first navigation.
 * Maintained using Git version control and GitHub Pages for structured change tracking and continuous deployment.
